@@ -1,4 +1,4 @@
-# hey, I'm Joshua 👋
+# Hey, I'm Joshua 👋
 
 Creative generalist — I build apps, design visuals, and create content.
 
