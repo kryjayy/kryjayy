@@ -15,8 +15,8 @@ Creative generalist — I build apps, design visuals, and create content.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ## Also
-- 🎨 Graphic design & motion graphics (After Effects)
+- 🎨 Graphic design & motion graphics (After Effects & Procreate)
 - 📸 Content creation on Instagram & TikTok
 
 ## Connect
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/your_handle)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kryjayy)
